@@ -12,7 +12,19 @@
 - spaCy basics for Spanish NLP
 - Scope needed refinement for pre-MA work
 
-### Phase 2: Focused Analysis (Current)
+### Phase 2: # Exploratory Analysis of Colombian Post-Peace Accord Discourse
 
-**Goal**: Semantic framing of contested terms in Colombian political discourse  
-- Under construction 
+**Description:** This pilot analysis explores semantic framing in Colombian post-accord media discourse as groundwork for my proposed MA research on pragmatic inference and epistemic models.
+
+**Methodology:** 
+- Scraped 30 articles from Semana News Outlet (2022-2023)
+- Basic frequency analysis of key political terms
+- Please note: This is exploratory work. 
+
+**Tools used**
+- Python (beautifulsoup, pandas, matplotlib)
+
+**Limitations & Next Steps**
+This analysis is limited by corpus size and lacks the formal pragmatic modeling (RSA framework) that would connect term frequency to epistemic inference. 
+
+
