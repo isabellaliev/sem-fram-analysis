@@ -17,7 +17,7 @@
 **Description:** This pilot analysis explores semantic framing in Colombian post-accord media discourse as groundwork for my proposed MA research on pragmatic inference and epistemic models.
 
 **Methodology:** 
-- Scraped 30 articles from El Tiempo News Outlet (2022-2023)
+- Scraped 31 articles from El Tiempo News Outlet (2016-2023)
 - Basic frequency analysis of key political terms
 - Please note: This is exploratory work. 
 
