@@ -17,14 +17,26 @@
 **Description:** This pilot analysis explores semantic framing in Colombian post-accord media discourse as groundwork for my proposed MA research on pragmatic inference and epistemic models.
 
 **Methodology:** 
-- Scraped 30 articles from Semana News Outlet (2022-2023)
+- Scraped 30 articles from El Tiempo News Outlet (2022-2023)
 - Basic frequency analysis of key political terms
 - Please note: This is exploratory work. 
 
 **Tools used**
-- Python (beautifulsoup, pandas, matplotlib)
+- _Collection:_ web scraping (BeautifulSoup, requests)
+- _Visualization:_ matplotlib
 
-**Limitations & Next Steps**
-This analysis is limited by corpus size and lacks the formal pragmatic modeling (RSA framework) that would connect term frequency to epistemic inference. 
+**Analysis of El Tiempo coverage reveals:**
+- _FARC_ appears in 71% of articles (22/31)
+- _Paz_ appears in 22.6% of articles (7/31)
+- _Guerrillero_ appears in only 6.5% of articles (2/31)
+- _Excombatiente_ appears in only 3.2% of articles (1/31)
 
+This suggests that peace process coverage remains strongly associated with the armed group (FARC) rather than emphasizing reintegration terminology (excombatiente). The low frequency of "guerrillero" may indicate shift away from explicit conflict terminology, though further analysis with larger corpus is needed.
+
+**Next Steps**
+Please note: This analysis is limited by corpus size and lacks the formal pragmatic modeling (RSA framework) that would connect term frequency to epistemic inference.  
+- Co-occurrence analysis to identify semantic entanglement patterns
+- Temporal analysis across pre/post-Petro periods
+- RSA modeling of epistemic priors derived from discourse patterns
+- Formalization of discourse-cognition interface
 
