@@ -33,10 +33,17 @@
 
 This suggests that peace process coverage remains strongly associated with the armed group (FARC) rather than emphasizing reintegration terminology (excombatiente). The low frequency of "guerrillero" may indicate shift away from explicit conflict terminology, though further analysis with larger corpus is needed.
 
+**Temporal Patterns:**
+
+FARC references decline from 83.3% (2016-2018) to 57.1% (2022-2023)
+Reintegration terms ('excombatiente') remain minimal across all periods
+'Paz' mentions show slight increase but limited overall presence
+
+These preliminary patterns suggest evolving but still limited diversification of peace process framing in Colombian press discourse.
+
 **Next Steps**
 Please note: This analysis is limited by corpus size and lacks the formal pragmatic modeling (RSA framework) that would connect term frequency to epistemic inference.  
 - Co-occurrence analysis to identify semantic entanglement patterns
-- Temporal analysis across pre/post-Petro periods
 - RSA modeling of epistemic priors derived from discourse patterns
 - Formalization of discourse-cognition interface
 
