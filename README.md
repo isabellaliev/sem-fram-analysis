@@ -41,9 +41,4 @@ Reintegration terms ('excombatiente') remain minimal across all periods
 
 These preliminary patterns suggest evolving but still limited diversification of peace process framing in Colombian press discourse.
 
-**Next Steps**
-Please note: This analysis is limited by corpus size and lacks the formal pragmatic modeling (RSA framework) that would connect term frequency to epistemic inference.  
-- Co-occurrence analysis to identify semantic entanglement patterns
-- RSA modeling of epistemic priors derived from discourse patterns
-- Formalization of discourse-cognition interface
-
+> Please note: This analysis is limited by corpus size and lacks the formal pragmatic modeling (RSA framework) that would connect term frequency to epistemic inference.  
